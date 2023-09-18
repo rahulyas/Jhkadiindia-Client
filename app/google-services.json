@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807874412155",
+    "project_id": "jhkadiindia-client",
+    "storage_bucket": "jhkadiindia-client.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807874412155:android:2a3242521d65f34e6b2cde",
+        "android_client_info": {
+          "package_name": "com.rahul.jhkadiindiaclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDneMyS0ZGq4joufy7ryEhTe-d9lXQacWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

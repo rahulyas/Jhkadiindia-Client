@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JhkadiIndia(Client)</string>
+
+    <string name="product_type">Product Type</string>
+    <string name="upload_product_data">Upload Product Details</string>
+    <string name="update_product_data">Update Product Details</string>
+    <string name="product_name">Please Enter Product Name</string>
+    <string name="product_rate">Please Enter Product Rate</string>
+    <string name="discount_rate">Please Enter Discount Rate</string>
+    <string name="Description">Please Enter Description</string>
+
+</resources>
